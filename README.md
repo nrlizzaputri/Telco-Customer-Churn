@@ -1,5 +1,5 @@
-**Tujuan Proyek**
-Menganalisis faktor-faktor yang mempengaruhi pelanggan berhenti berlangganan (churn) dari layanan telekomunikasi, dan memberikan insight yang berguna untuk strategi retensi pelanggan.
+# ANALISIS CUSTOMER CHURN - TELCO DATASET
+Proyek ini bertujuan untuk menganalisis faktor-faktor yang mempengaruhi pelanggan berhenti berlangganan (churn) dari layanan telekomunikasi, serta memberikan rekomendasi strategis untuk mengurangi churn.
 
-**Proses Analisis**
-
+# Dataset
+- **Jumlah Data**:
